@@ -1,4 +1,4 @@
-#!/usr/bin/python
+ #!/usr/bin/python
 #BARKI Teach my wp 03188939326
 
 import os,zlib
